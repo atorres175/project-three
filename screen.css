@@ -11,11 +11,11 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 html{
   font-family: 'Raleway', 'Times New Roman', Times;
-  background: #412;
-  color: #EEE;
   font-size: 18px;
   line-height: 25px;
   padding: 22px;
+  background: #412;
+  color: #EEE;
 }
 h1{
   font-weight: bold;
@@ -63,8 +63,8 @@ section li{
   flex: 1;
 }
 #navigation li a{
-  color: #412;
   text-decoration: none;
+  color: #412;
 }
 #freetime{
   padding: 11px 0px 11px 0px;
@@ -86,8 +86,8 @@ section li{
   padding: 11px 0px 11px 0px;
 }
 #contact li a{
-  color: white;
   text-decoration: none;
+  color: white;
 }
 #footer{
   padding-top: 15px;
